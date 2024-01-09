@@ -35,7 +35,7 @@ cargo build --release
 5. Usage 
 
 ```bash
-cargo run -- "path/to/testfile" -s 10 -t sequential -b 4096
+cargo run -- "path/to/testfile" -s 10 -t sequentials -b 4096
 
 
 ```
