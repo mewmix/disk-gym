@@ -1,4 +1,6 @@
 # Disk-Gym
+## Video Example
+https://github.com/mewmix/disk-gym/assets/42463809/57f91ed5-00be-442d-841d-c24571811dec
 
 ## Introduction
 This is a cross-platform disk benchmarking tool written in Rust because I wanted things fast and smooth. Rather than selecting a disk persay, you select a path including the name of the testfile. This design pattern may change, but for now is a simple way of remaining cross platform and modular. 
