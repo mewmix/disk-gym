@@ -8,3 +8,7 @@ edition = "2021"
 clap = "2.33"
 rand = "0.8.3"
 indicatif = "0.16"
+tokio = { version = "1", features = ["full"] }
+log = "0.4"
+simple_logger = "1.0"
+futures = "0.3.30"
