@@ -43,7 +43,7 @@ cargo run -- "path/to/testfile" -s 10 -t sequentials -b 4096
 or
 
 ```bash
-cargo run -- "path/to/testfile" -s 10 -t random -b 4096 -n 1000
+cargo run -- "path/to/testfile" -s 10 -t random -b 4096 -n 5
 
 ```
 
